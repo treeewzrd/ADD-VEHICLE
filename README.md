@@ -23,3 +23,7 @@ The **Vehicle Manager** is a command-line interface (CLI) application that allow
    ```bash
    git clone <repository-url>
    cd <repository-folder>
+
+## VIDEO DEMONSTRATION
+SCREENCASTIFY VIDEO WALKTHROUGH
+https://drive.google.com/file/d/18tkigfuXoAE32JHw6bVj7GmPGqLjK8GP/view
